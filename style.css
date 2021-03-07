@@ -1,27 +1,30 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+
 h2{
 	color: white;
 }
 
 h1{
-	color: black;	
+	color: white;
+	background: #007acc;	
 }
 
 body{
-<<<<<<< HEAD
-	background: rgb(34,195,138);
-	background: linear-gradient(0deg, rgba(34,195,138,1) 0%, rgba(235,45,253,1) 100%); 
-
-=======
-	 background: rgb(34,195,138);
-	background: linear-gradient(0deg, rgba(34,195,138,1) 0%, rgba(235,45,253,1) 100%); 
->>>>>>> 28a5f25ed626c63b1f99251242f94c956a71b7f5
+	background: #252526;
+	font-family: 'Open Sans', sans-serif; 
+	color: white;
+	text-align: centre;
+	border: 3px solid #007acc;
+	margin: 35px
 }
+
 
 footer{
 	text-align: center;
   	padding: 3px;
   	color: white;
 	display: block;
-	border: 5px solid DarkSalmon;
-	padding: 35px;
+	border: 5px solid #007acc;
+	margin: 35px;
+	background: #1e1e1e;
 }
