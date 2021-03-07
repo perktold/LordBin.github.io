@@ -7,9 +7,14 @@ h1{
 }
 
 body{
+<<<<<<< HEAD
 	background: rgb(34,195,138);
 	background: linear-gradient(0deg, rgba(34,195,138,1) 0%, rgba(235,45,253,1) 100%); 
 
+=======
+	 background: rgb(34,195,138);
+	background: linear-gradient(0deg, rgba(34,195,138,1) 0%, rgba(235,45,253,1) 100%); 
+>>>>>>> 28a5f25ed626c63b1f99251242f94c956a71b7f5
 }
 
 footer{
